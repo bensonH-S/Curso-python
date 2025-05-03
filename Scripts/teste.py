@@ -1,5 +1,0 @@
-print('==========================')
-print('     INICIANDO TESTE   ')
-print('     TESTE REALIZADO   ')
-print('      COM SUCESSO      ')
-print('=========================') 
